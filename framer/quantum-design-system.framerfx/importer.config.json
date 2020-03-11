@@ -1,0 +1,12 @@
+{
+  "packageName": "@quantum-design-system/ui",
+  "mode": "typescript",
+  "rootFiles": ["../../node_modules/@quantum-design-system/ui/dist/index.d.ts"],
+  "additionalImports": [],
+  "out": "code/",
+  "components": {
+    "PrimaryButton": {
+      "ignore": false
+    }
+  }
+}

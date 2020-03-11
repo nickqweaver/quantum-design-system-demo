@@ -1,0 +1,21 @@
+{
+  "name": "@quantum-design-system/framer",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8",
+    "@quantum-design-system/ui": "^1.0.0"
+  },
+  "peerDependencies": {
+    "framer": "^1.0",
+    "react": "^16.8"
+  },
+  "framer": {
+    "id": "4b93b580-441e-4166-abba-cd39ab7be09c"
+	},
+	"scripts": {
+		"generate": "component-importer generate"
+	},
+  "author": "Nick Weaver"
+}
